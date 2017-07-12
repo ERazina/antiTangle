@@ -1,0 +1,187 @@
+@font-face {
+  font-family: 'samsungIcon';
+  src: url('samsungIcon.eot'); /* IE9 Compat Modes */
+  src: url('samsungIcon.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('samsungIcon.woff') format('woff'), /* Modern Browsers */
+       url('samsungIcon.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'SamsungSharpSans';
+  src: url('SamsungSharpSans-Regular.eot'); /* IE9 Compat Modes */
+  src: url('SamsungSharpSans-Regular.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungSharpSans-Regular.woff') format('woff'), /* Modern Browsers */
+       url('SamsungSharpSans-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'SamsungSharpSans';
+  src: url('SamsungSharpSans-Bold.eot'); /* IE9 Compat Modes */
+  src: url('SamsungSharpSans-Bold.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungSharpSans-Bold.woff') format('woff'), /* Modern Browsers */
+       url('SamsungSharpSans-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-200_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-200_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-200_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-200_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-200C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-200C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-200C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-200C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-300_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-300_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-300_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-300_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  300;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-300C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-300C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-300C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-300C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  300;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-400_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-400_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-400_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-400_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-400C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-400C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-400C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-400C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-500_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-500_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-500_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-500_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  500;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-500C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-500C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-500C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-500C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  500;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-600_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-600_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-600_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-600_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  600;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-600C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-600C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-600C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-600C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  600;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-700_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-700_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-700_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-700_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-700C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-700C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-700C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-700C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'SamsungOne';
+  src: url('SamsungOneCyrillic-800_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-800_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-800_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-800_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  800;
+}
+
+@font-face {
+  font-family: 'SamsungOneCond';
+  src: url('SamsungOneCyrillic-800C_v1.0.eot'); /* IE9 Compat Modes */
+  src: url('SamsungOneCyrillic-800C_v1.0.eot%3F') format('embedded-opentype'), /* IE6-IE8 */
+       url('SamsungOneCyrillic-800C_v1.0.woff') format('woff'), /* Modern Browsers */
+       url('SamsungOneCyrillic-800C_v1.0.ttf')  format('truetype'); /* Safari, Android, iOS */
+       
+  font-style:   normal;
+  font-weight:  800;
+}
+
